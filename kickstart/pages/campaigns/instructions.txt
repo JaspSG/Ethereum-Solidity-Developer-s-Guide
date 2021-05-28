@@ -1,0 +1,4 @@
+By having the folders Path & campaigns, a routing will be created as such,
+
+localhost:3000/campaigns/new : is a Path
+localohst:3000/ : is the default index path
